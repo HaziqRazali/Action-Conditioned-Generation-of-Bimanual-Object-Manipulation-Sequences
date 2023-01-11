@@ -1,0 +1,18 @@
+
+# datasets
+./datasets/kit_mocap/cached-data/*
+./datasets/kit_mocap/data*
+
+# weights
+./weights/*
+
+# results
+./results/*
+
+# files
+*pyc
+*nfs*
+*.log
+*.events.out*
+*.pt
+*.txt
