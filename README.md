@@ -39,6 +39,7 @@ For training and testing
     ├── models        : directory containing the model architecture
     ├── results       : directory containing some sample results
     ├── weights       : directory containing the model weights
+    ├── paper.pdf     : AAAI paper
     ├── test.py       : test script
     ├── train.py      : train script
     
